@@ -18,3 +18,20 @@ Our goal is to empower users with proactive mental health support through real-t
 - `/data` — Test data and simulations of heart rate fluctuations.  
 
 Stay tuned for further updates!
+## How to run the app
+
+Follow these steps to set up and run the heart rate monitoring app:
+
+1. **Clone the repository** (скачай проект на свой компьютер):
+
+
+2. **Navigate to the project folder** (зайди в папку с проектом):
+
+
+3. **Install dependencies** (установи библиотеки, которые нужны для работы кода):
+
+
+4. **Run the app** (запусти приложение):
+
+
+The app will simulate heart rate data every 5 seconds.
